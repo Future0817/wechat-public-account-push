@@ -8,22 +8,23 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: wxc249a4de8ecb56f9'',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET:
+20d901fa91d5aa584536663125930a96 '',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '河南',
+  CITY: '周口',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: oTAMz57MeZ1Ugio1VwNFh6Dp5sRM'',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId:	_-1AtKOmkWYLQX2CGOLrKJsa9s6-9bGk1i3eZV3lZ0I '',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -42,9 +43,8 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-08' },
+        { keyword: 'love_day', date: '2021-08-16' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
   ],
