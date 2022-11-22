@@ -11,8 +11,7 @@ const USER_CONFIG = {
   APP_ID: wxc249a4de8ecb56f9'',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET:
-20d901fa91d5aa584536663125930a96 '',
+  APP_SECRET:20d901fa91d5aa584536663125930a96 '',
 
   PROVINCE: '河南',
   CITY: '周口',
