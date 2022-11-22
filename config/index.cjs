@@ -8,7 +8,7 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: wxc249a4de8ecb56f9'',
+  APP_ID:wxc249a4de8ecb56f9'',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET:20d901fa91d5aa584536663125930a96 '',
@@ -43,7 +43,6 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2021-08-16' },
-        // 结婚纪念日
       ],
     },
   ],
