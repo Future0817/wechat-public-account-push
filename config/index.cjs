@@ -15,6 +15,7 @@ const USER_CONFIG = {
 
   PROVINCE: '河南',
   CITY: '周口',
+  
 __tests__/services.spec.js
   USERS: [
     {
